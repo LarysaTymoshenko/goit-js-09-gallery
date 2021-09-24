@@ -1,7 +1,3 @@
-const Joi = require('joi');
-
-
-
 
 import galleryItems from '../js/data/gallery-img.js';
 
